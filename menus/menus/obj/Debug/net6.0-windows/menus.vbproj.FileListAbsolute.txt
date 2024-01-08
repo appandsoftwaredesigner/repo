@@ -1,0 +1,17 @@
+C:\Users\kewun742\Documents\repo\menus\menus\bin\Debug\net6.0-windows\menus.exe
+C:\Users\kewun742\Documents\repo\menus\menus\bin\Debug\net6.0-windows\menus.deps.json
+C:\Users\kewun742\Documents\repo\menus\menus\bin\Debug\net6.0-windows\menus.runtimeconfig.json
+C:\Users\kewun742\Documents\repo\menus\menus\bin\Debug\net6.0-windows\menus.dll
+C:\Users\kewun742\Documents\repo\menus\menus\bin\Debug\net6.0-windows\menus.pdb
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.vbproj.AssemblyReference.cache
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.Form1.resources
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.vbproj.GenerateResource.cache
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.AssemblyInfoInputs.cache
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.AssemblyInfo.vb
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.vbproj.CoreCompileInputs.cache
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.dll
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\refint\menus.dll
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.pdb
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\menus.genruntimeconfig.cache
+C:\Users\kewun742\Documents\repo\menus\menus\obj\Debug\net6.0-windows\ref\menus.dll
