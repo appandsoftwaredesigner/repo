@@ -1,6 +1,9 @@
-﻿Imports System.Windows.Forms.VisualStyles.VisualStyleElement
+﻿Imports System.IO
+Imports System.Windows.Forms.VisualStyles.VisualStyleElement
+
 
 Public Class Form1
+    Dim records(50) As String
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
@@ -16,18 +19,16 @@ Public Class Form1
     End Sub
 
     Private Sub SaveToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SaveToolStripMenuItem.Click
-        Dim outfile As New IO.StreamWriter("data.txt")
+        Dim outfile As New StreamWriter("data.txt")
         outfile.Write(Field1.Text)
         outfile.Write("|")
-        outfile.Write(Field1.Text)
+        outfile.Write(Field2.Text)
         outfile.Write("|")
-        outfile.Write(Field1.Text)
+        outfile.Write(Field3.Text)
         outfile.Write("|")
-        outfile.Write(Field1.Text)
+        outfile.Write(Field4.Text)
         outfile.Write("|")
-        outfile.Write(Field1.Text)
-        outfile.Write("|")
-        outfile.Write(Field1.Text)
+        outfile.Write(Field5.Text)
         outfile.Write("|")
         outfile.WriteLine(PictureBox1.ImageLocation)
         outfile.Close()
@@ -35,7 +36,12 @@ Public Class Form1
     End Sub
 
     Private Sub LoadToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles LoadToolStripMenuItem.Click
-
+        If IO.File.Exists("data.txt") Then
+            Dim infile As New StreamReader("data.txt")
+            records(0) = infile.ReadLine
+            records(1) = infile.ReadLine
+            infile.Close()
+        End If
     End Sub
 
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
