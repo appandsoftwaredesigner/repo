@@ -61,8 +61,8 @@ Partial Class Form1
         '
         Me.MenuToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.NewToolStripMenuItem, Me.SaveToolStripMenuItem, Me.LoadToolStripMenuItem})
         Me.MenuToolStripMenuItem.Name = "MenuToolStripMenuItem"
-        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(60, 24)
-        Me.MenuToolStripMenuItem.Text = "Menu"
+        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(46, 24)
+        Me.MenuToolStripMenuItem.Text = "File"
         '
         'NewToolStripMenuItem
         '
@@ -86,7 +86,7 @@ Partial Class Form1
         '
         Me.Field1.Location = New System.Drawing.Point(69, 132)
         Me.Field1.Name = "Field1"
-        Me.Field1.Size = New System.Drawing.Size(125, 27)
+        Me.Field1.Size = New System.Drawing.Size(187, 27)
         Me.Field1.TabIndex = 1
         '
         'Label1
@@ -101,9 +101,9 @@ Partial Class Form1
         'PictureBox1
         '
         Me.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.PictureBox1.Location = New System.Drawing.Point(280, 67)
+        Me.PictureBox1.Location = New System.Drawing.Point(262, 67)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(373, 136)
+        Me.PictureBox1.Size = New System.Drawing.Size(394, 281)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 3
         Me.PictureBox1.TabStop = False
@@ -112,28 +112,28 @@ Partial Class Form1
         '
         Me.Field2.Location = New System.Drawing.Point(69, 183)
         Me.Field2.Name = "Field2"
-        Me.Field2.Size = New System.Drawing.Size(125, 27)
+        Me.Field2.Size = New System.Drawing.Size(187, 27)
         Me.Field2.TabIndex = 4
         '
         'Field3
         '
         Me.Field3.Location = New System.Drawing.Point(69, 235)
         Me.Field3.Name = "Field3"
-        Me.Field3.Size = New System.Drawing.Size(125, 27)
+        Me.Field3.Size = New System.Drawing.Size(187, 27)
         Me.Field3.TabIndex = 5
         '
         'Field4
         '
         Me.Field4.Location = New System.Drawing.Point(69, 285)
         Me.Field4.Name = "Field4"
-        Me.Field4.Size = New System.Drawing.Size(125, 27)
+        Me.Field4.Size = New System.Drawing.Size(187, 27)
         Me.Field4.TabIndex = 6
         '
         'Field5
         '
         Me.Field5.Location = New System.Drawing.Point(69, 328)
         Me.Field5.Name = "Field5"
-        Me.Field5.Size = New System.Drawing.Size(125, 27)
+        Me.Field5.Size = New System.Drawing.Size(187, 27)
         Me.Field5.TabIndex = 7
         '
         'Label2
@@ -178,7 +178,7 @@ Partial Class Form1
         '
         'FirstButton
         '
-        Me.FirstButton.Location = New System.Drawing.Point(260, 285)
+        Me.FirstButton.Location = New System.Drawing.Point(262, 371)
         Me.FirstButton.Name = "FirstButton"
         Me.FirstButton.Size = New System.Drawing.Size(94, 29)
         Me.FirstButton.TabIndex = 12
@@ -188,7 +188,7 @@ Partial Class Form1
         '
         'PrevButton
         '
-        Me.PrevButton.Location = New System.Drawing.Point(370, 285)
+        Me.PrevButton.Location = New System.Drawing.Point(362, 371)
         Me.PrevButton.Name = "PrevButton"
         Me.PrevButton.Size = New System.Drawing.Size(94, 29)
         Me.PrevButton.TabIndex = 13
@@ -197,7 +197,7 @@ Partial Class Form1
         '
         'NextButton
         '
-        Me.NextButton.Location = New System.Drawing.Point(492, 285)
+        Me.NextButton.Location = New System.Drawing.Point(462, 371)
         Me.NextButton.Name = "NextButton"
         Me.NextButton.Size = New System.Drawing.Size(94, 29)
         Me.NextButton.TabIndex = 14
@@ -206,7 +206,7 @@ Partial Class Form1
         '
         'LastButton
         '
-        Me.LastButton.Location = New System.Drawing.Point(605, 285)
+        Me.LastButton.Location = New System.Drawing.Point(562, 371)
         Me.LastButton.Name = "LastButton"
         Me.LastButton.Size = New System.Drawing.Size(94, 29)
         Me.LastButton.TabIndex = 15
