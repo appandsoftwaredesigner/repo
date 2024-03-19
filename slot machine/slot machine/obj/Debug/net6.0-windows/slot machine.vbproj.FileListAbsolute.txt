@@ -1,0 +1,21 @@
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\bin\Debug\net6.0-windows\slot machine.exe
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\bin\Debug\net6.0-windows\slot machine.deps.json
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\bin\Debug\net6.0-windows\slot machine.runtimeconfig.json
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\bin\Debug\net6.0-windows\slot machine.dll
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\bin\Debug\net6.0-windows\slot machine.pdb
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.vbproj.AssemblyReference.cache
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot_machine.Form1.resources
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.vbproj.GenerateResource.cache
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.AssemblyInfoInputs.cache
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.AssemblyInfo.vb
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.vbproj.CoreCompileInputs.cache
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.dll
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\refint\slot machine.dll
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.pdb
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot machine.genruntimeconfig.cache
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\ref\slot machine.dll
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot_machine.reel_control.resources
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot_machine.coinslot.resources
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot_machine.coins.resources
+C:\Users\kewun742\Documents\repo\slot machine\slot machine\obj\Debug\net6.0-windows\slot_machine.Resources.resources

@@ -11,3 +11,4 @@ C:\Users\kewun742\Documents\repo\Fed55\Fed55\obj\Debug\Fed55.vbproj.CoreCompileI
 C:\Users\kewun742\Documents\repo\Fed55\Fed55\obj\Debug\Fed55.exe
 C:\Users\kewun742\Documents\repo\Fed55\Fed55\obj\Debug\Fed55.xml
 C:\Users\kewun742\Documents\repo\Fed55\Fed55\obj\Debug\Fed55.pdb
+C:\Users\kewun742\Documents\repo\Fed55\Fed55\obj\Debug\Fed55.ClickerControl.resources

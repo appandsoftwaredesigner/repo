@@ -1,0 +1,19 @@
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\bin\Debug\net6.0-windows\vending machine.exe
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\bin\Debug\net6.0-windows\vending machine.deps.json
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\bin\Debug\net6.0-windows\vending machine.runtimeconfig.json
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\bin\Debug\net6.0-windows\vending machine.dll
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\bin\Debug\net6.0-windows\vending machine.pdb
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.vbproj.AssemblyReference.cache
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending_machine.Form1.resources
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending_machine.Resources.resources
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.vbproj.GenerateResource.cache
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.AssemblyInfoInputs.cache
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.AssemblyInfo.vb
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.vbproj.CoreCompileInputs.cache
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.dll
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\refint\vending machine.dll
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.pdb
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending machine.genruntimeconfig.cache
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\ref\vending machine.dll
+C:\Users\kewun742\Documents\repo\vending machine\vending machine\obj\Debug\net6.0-windows\vending_machine.product_control.resources
